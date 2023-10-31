@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/insights"
+        android:icon="@drawable/baseline_insights_24"
+        android:title="Insights"/>
+
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/baseline_dashboard_24"
+        android:title="Dashboard"/>
+
+    <item
+        android:id="@+id/hunt"
+        android:title=""/>
+
+    <item
+        android:id="@+id/leaderboard"
+        android:icon="@drawable/baseline_leaderboard_24"
+        android:title="Leaderboard"/>
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Profile"/>
+
+</menu>
